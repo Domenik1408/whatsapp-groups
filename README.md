@@ -1,2 +1,2 @@
-# whatsapp-grous
+# whatsapp-groups
 Random WhatsApp groups are uploaded here regularly.
